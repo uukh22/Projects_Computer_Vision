@@ -1,0 +1,3 @@
+Code in GitHub : https://github.com/uukh22/Projects_Computer_Vision/tree/main/Sign%20Language%20(Mediapipe)
+
+Video and all Data in Drive : https://drive.google.com/drive/folders/1pWfn826toqbvN4z61YLNzhapyvHHAZX8?usp=drive_link
